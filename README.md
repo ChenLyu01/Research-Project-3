@@ -73,11 +73,11 @@ Here is a one-dimensional array.
 ```
 var str = Phaser.Math.RND.pick(dialogue) 
 ```
-Here is a random value from a one-dimensional array. **In real games, these data are not randomly selected. **Only in this way can we see the same video from different perspectives. Here, I will provide another picture to illustrate the issues.
+Here is a random value from a one-dimensional array. **In real games, these data are not randomly selected. **Only in this way can we see this video from different perspectives. Here, I will provide another picture to illustrate this point.
 
 ![Image text](https://github.com/ChenLyu01/Research-Project-3/blob/master/image/image3.png)
 
-From the picture, we can imagine that barrage data is not read by **Random**.
+From the picture, We can see that the perspective of narrative can be changed. This means that this video and most online games look the same. They all need algorithms to make the story lines and ending different. From a technical point of view. we can imagine that barrage data is not read by **Random** in the final work. 
 
 
 
@@ -97,7 +97,7 @@ this.tweens.add({
 });
 
 ```
-This section of the code is for moving the barrage. Here is a very interesting attribute set ：**yoyo** If we set the **yoyo** to be 'false', when the text reaches the border of the window, it will not turn back.
+This section of the code is for moving the barrage. Here is an interesting attribute set：**yoyo**. If we set the **yoyo** to be a 'false', when the moving text reaches the borders of the window, it will not turn back.
 
 
 
