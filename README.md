@@ -1,4 +1,4 @@
-[Research Project Two Demo](http://www.06-90.com/projects/p3/index.html). 
+[Research Project Three Demo](http://www.06-90.com/projects/p3/index.html). 
 
 
 
